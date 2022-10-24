@@ -14,9 +14,8 @@
 # limitations under the License.
 #
 
-# Boot animation
-TARGET_SCREEN_WIDTH := 1080
-TARGET_SCREEN_HEIGHT := 2340
+# Set Boot Animination Resolution
+TARGET_BOOT_ANIMATION_RES := 1440
 
 # Inherit from lava device makefile
 $(call inherit-product, device/xiaomi/lava/device.mk)
