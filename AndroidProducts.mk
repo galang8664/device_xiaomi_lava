@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/aosp_lava.mk
+   $(LOCAL_DIR)/p404_lava.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lava-user \
-    aosp_lava-userdebug \
-    aosp_lava-eng
+    p404_lava-user \
+    p404_lava-userdebug \
+    p404_lava-eng
