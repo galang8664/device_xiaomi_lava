@@ -64,3 +64,6 @@ PRODUCT_PACKAGES += \
 # Gcam Go
 PRODUCT_PACKAGES += \
     GCamGOPrebuilt-V3
+
+# Platform
+TARGET_BOARD_PLATFORM := mt6768
