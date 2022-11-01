@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lineage_lava.mk
+   $(LOCAL_DIR)/syberia_lava.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lava-user \
-    lineage_lava-userdebug \
-    lineage_lava-eng
+    syberia_lava-user \
+    syberia_lava-userdebug \
+    syberia_lava-eng
