@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/syberia_lava.mk
+   $(LOCAL_DIR)/cipher_lava.mk
 
 COMMON_LUNCH_CHOICES := \
-    syberia_lava-user \
-    syberia_lava-userdebug \
-    syberia_lava-eng
+    cipher_lava-user \
+    cipher_lava-userdebug \
+    cipher_lava-eng
