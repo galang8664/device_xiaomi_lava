@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/syberia_lava.mk
+   $(LOCAL_DIR)/octavi_lava.mk
 
 COMMON_LUNCH_CHOICES := \
-    syberia_lava-user \
-    syberia_lava-userdebug \
-    syberia_lava-eng
+    octavi_lava-user \
+    octavi_lava-userdebug \
+    octavi_lava-eng
